@@ -14,4 +14,4 @@ You can also find required packages in "requirements.txt".
 
 I welcome your comments.
 
-Contact me through my email :  anejadkoorki8199@gmailcom
+Contact me through my email :  anejadkoorki8199@gmail.com
